@@ -1,0 +1,13 @@
+exchange: "binance"
+symbol: "BTC/USDT"
+timeframe: "1m"
+amount: 0.001
+api:
+key: "2e5d6fcd9bbc118fa27391298ab649c8c5a33869b70ea0c65f4455e275d25ab2"
+secret: "eef77d9e74805a2b2262e7a2d4d296ad3b2368c15955bfbd2a6e2e665c02cad8"
+strategy:
+fast_period: 5
+slow_period: 20
+
+
+mode: "paper"
